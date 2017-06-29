@@ -1,4 +1,4 @@
-# Angular2-102
+# Angular2
 
 In this part you will learn more about building Components with the Input/Output properties; also the templates and the styles. Most of the samples are from the course [Angular 2 with TypeScript](https://www.udemy.com/angular-2-tutorial-for-beginners/learn/v4/overview) by Mosh Hamedi on Udemy.
 I'm developping the Angular 2 samples along way I'm learning Angular 2. If you have time, I recommend you to take the course because it has richer contents.
@@ -164,7 +164,7 @@ _Hints :_
 ```  
 See: [Solution](https://github.com/dacho68/Angular2-102/blob/master/app/voter.component.ts)
 
-## Challenge - build a simple UI like tweeter
+## Challenge - build a simple UI like twitter
 
 ![twitter](./images/challenge_twitter.jpg)
 
@@ -183,3 +183,7 @@ See: [Solution](https://github.com/dacho68/Angular2-102/tree/master/app/challeng
 ## Output
 
 ![Result](./images/result.jpg)"# Angular2Glyph" 
+
+## Zippy Component 
+
+Adding a Zippy component to the page 
