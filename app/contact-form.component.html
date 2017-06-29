@@ -1,0 +1,19 @@
+<form>
+    <div class="form-group">
+        <label for="fname">First Name</label>
+        <input   
+
+  ngModel
+  name="fname" 
+  #fname="ngModel" 
+        id="fname" 
+        class="form-control" 
+         (change) ="log(fname)" type="text"  >
+    </div>
+
+    <div class="form-group"><label for="comment"></label>
+    <textarea ngControl="comment" name="" id="comment" cols="30" rows="10" class="form-control">Comment</textarea></div>
+
+
+    <button class="btn btn-primary" type="submit" >Submit</button>
+    </form>
